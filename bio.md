@@ -6,4 +6,4 @@
 
 **slack handle**: yomj
 
-**photo** ![Joyce](/selfie.jpg)
+**photo** ![Joyce](/images/selfie.jpg)
