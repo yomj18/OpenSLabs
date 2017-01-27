@@ -30,42 +30,42 @@ with when looking to contribute/create an open source project.
 
 ####d. Linux 
 
-screenshot: ![tree][/images/linux.JPG]
+screenshot: ![tree](/images/linux.JPG)
 
 
 ####e. Regex 
 
 2. 7 problems: 
 
-![one][/images/regex1.JPG]
+![one](/images/regex1.JPG)
 
-![two][/images/regex2.JPG]
+![two](/images/regex2.JPG)
 
-![thre][/images/regex3.JPG]
+![thre](/images/regex3.JPG)
 
-![four][/images/regex4.JPG]
+![four](/images/regex4.JPG)
 
-![five][/images/regex5.JPG]
+![five](/images/regex5.JPG)
 
-![six][/images/regex6.JPG]
+![six](/images/regex6.JPG)
 
-![seven][/images/regex7.JPG]
+![seven](/images/regex7.JPG)
 
 
 3. 4 beginner problems: 
 
-![eight][/images/regex8.JPG]
+![eight](/images/regex8.JPG)
 
-![nine][/images/regex9.JPG]
+![nine](/images/regex9.JPG)
 
-![ten][/images/regex10.JPG]
+![ten](/images/regex10.JPG)
 
-![eleven][/images/regex11.JPG]
+![eleven](/images/regex11.JPG)
 
 
 ####f. Blockly
 
-![blockly][/images/blockly.JPG]
+![blockly](/images/blockly.JPG)
 
 
 ####g. Reflection
