@@ -1,6 +1,9 @@
 ## Lab 2 - 1/27/17
 
 
+1. four criteria for Free Software - read. 
+
+
 2. It's important to choose a license because there needs to be a legal 
 way to ensure that free software remains free. A free software license 
 would require that the freedoms would be permanent, and not revokable
@@ -26,6 +29,8 @@ using (a modification of) their source code is made available. Linux
 stayed with GPL v2 due to a dislike of some of the terms made in v3, 
 which prohibited the use of software in digital rights management. 
 
+
+6. For an example project, GNU GPLv3 was chosen. 
 
 7. I think that LGPL would be best for the common good because it 
 applies to libraries, than whole softwares, which would be easier on 
